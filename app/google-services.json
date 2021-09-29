@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "436859663840",
+    "firebase_url": "https://livetrackingapp-a752d-default-rtdb.firebaseio.com",
+    "project_id": "livetrackingapp-a752d",
+    "storage_bucket": "livetrackingapp-a752d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436859663840:android:387d896b4d420062e3e785",
+        "android_client_info": {
+          "package_name": "com.example.livetrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436859663840-uc2eg6jslfsi3v5921jns494724lkoor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livetrackingapp",
+            "certificate_hash": "7a95cb78b0d8db483c12c7f6083b3a8cbaf93204"
+          }
+        },
+        {
+          "client_id": "436859663840-8a6lj3dmre0brpqa3ss1ar0h9sdb2ovi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgdxkeNNvHCxZrmL1lPEoIXdbFqrKi8x8"
+        },
+        {
+          "current_key": "AIzaSyAWpeA5itSj5gEN9YWKt5v6LtjW9w2heB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436859663840-8a6lj3dmre0brpqa3ss1ar0h9sdb2ovi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436859663840:android:718fc3df57620151e3e785",
+        "android_client_info": {
+          "package_name": "com.example.trackingclientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436859663840-h2mgn8g51et0npl31f9p49hon7c06cpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackingclientapp",
+            "certificate_hash": "7a95cb78b0d8db483c12c7f6083b3a8cbaf93204"
+          }
+        },
+        {
+          "client_id": "436859663840-8a6lj3dmre0brpqa3ss1ar0h9sdb2ovi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgdxkeNNvHCxZrmL1lPEoIXdbFqrKi8x8"
+        },
+        {
+          "current_key": "AIzaSyAWpeA5itSj5gEN9YWKt5v6LtjW9w2heB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436859663840-8a6lj3dmre0brpqa3ss1ar0h9sdb2ovi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
